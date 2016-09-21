@@ -1,0 +1,7 @@
+﻿  ServerDlg.cpp
+e:\cpp\ezchat\server\server\serverdlg.cpp(226): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\cpp\ezchat\server\server\serverdlg.cpp(286): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\cpp\ezchat\server\server\serverdlg.cpp(337): warning C4715: “CServerDlg::compare”: 不是所有的控件路径都返回值
+  Server.vcxproj -> E:\cpp\EzChat\Server\Debug\Server.exe

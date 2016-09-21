@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  Search.cpp
+  DlgLogin.cpp
+e:\cpp\ezchat\client\client\dlglogin.cpp(60): warning C4244: “=”: 从“wchar_t”转换到“char”，可能丢失数据
+e:\cpp\ezchat\client\client\dlglogin.cpp(64): warning C4244: “=”: 从“wchar_t”转换到“char”，可能丢失数据
+  ClientDlg.cpp
+  Client.cpp
+  ChatSock.cpp
+  ChatInterface.cpp
+  正在生成代码...
+  Client.vcxproj -> E:\cpp\EzChat\Client\Debug\Client.exe
